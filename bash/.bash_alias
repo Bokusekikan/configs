@@ -1,0 +1,5 @@
+p='/home/fesoj/dl'
+alias d=$p
+alias ba='vim /home/fesoj/.bash_alias'
+alias q=exit
+
